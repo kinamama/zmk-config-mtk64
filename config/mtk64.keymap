@@ -47,7 +47,7 @@
             >;
 
             sensor-bindings =
-                <&inc_dec_kp RIGHT_BRACKET LEFT_BRACKET>,
+                <&inc_dec_kp LEFT_BRACKET RIGHT_BRACKET>,
                 <&scroll_up_down>;
         };
 
